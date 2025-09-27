@@ -6,6 +6,6 @@
   [View Certificate](https://www.hackerrank.com/certificates/17c8e7f3c160)
 
 - **SQL (5-Star)**  
-  [View Certificate](https://www.hackerrank.com/dashboard)
+  [View Certificate](https://www.hackerrank.com/certificates/d276b568c8c5)
 
 
